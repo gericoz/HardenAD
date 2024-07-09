@@ -249,30 +249,30 @@
 			The french edition is commented: you can use it by removing the english translation and uncoment each line.
 		-->
 		<!-- EN-US - START -->
+		<!--
 		<wellKnownID objectClass="text" translateFrom="%Administrators%" translateTo="Administrators" />
 		<wellKnownID objectClass="text" translateFrom="%DomainAdmins%" translateTo="Domain Admins" />
 		<wellKnownID objectClass="text" translateFrom="%SchemaAdmins%" translateTo="Schema Admins" />
 		<wellKnownID objectClass="text" translateFrom="%EnterpriseAdmins%" translateTo="Enterprise Admins" />
 		<wellKnownID objectClass="text" translateFrom="%Users%" translateTo="Users" />
 		<wellKnownID objectClass="text" translateFrom="%Guest%" translateTo="Guest" />
+		-->
 		<!-- EN-US - END   -->
 		<!-- FR-FR - START -->
-		<!--
 		<wellKnownID objectClass="text" translateFrom="%Administrators%" translateTo="Administrateurs" />
 		<wellKnownID objectClass="text" translateFrom="%DomainAdmins%" translateTo="Admins du domaine" />
 		<wellKnownID objectClass="text" translateFrom="%SchemaAdmins%" translateTo="Administrateurs du schéma" />
 		<wellKnownID objectClass="text" translateFrom="%EnterpriseAdmins%" translateTo="Administrateurs de l’entreprise" />
 		<wellKnownID objectClass="text" translateFrom="%Users%" translateTo="Utilisateurs" />
 		<wellKnownID objectClass="text" translateFrom="%Guest%" translateTo="Invité" />
-		-->
 		<!-- FR-FR - END   -->
-		<wellKnownID objectClass="text" translateFrom="%NetBios%" translateTo="HARDEN" />
-		<wellKnownID objectClass="text" translateFrom="%domaindns%" translateTo="HARDEN.AD" />
-		<wellKnownID objectClass="text" translateFrom="%DN%" translateTo="DC=HARDEN,DC=AD" />
-		<wellKnownID objectClass="text" translateFrom="%RootNetBios%" translateTo="HARDEN" />
-		<wellKnownID objectClass="text" translateFrom="%domain%" translateTo="HARDEN" />
-		<wellKnownID objectClass="text" translateFrom="%Rootdomaindns%" translateTo="HARDEN.AD" />
-		<wellKnownID objectClass="text" translateFrom="%RootDN%" translateTo="DC=HARDEN,DC=AD" />
+		<wellKnownID objectClass="text" translateFrom="%NetBios%" translateTo="NOVA" />
+		<wellKnownID objectClass="text" translateFrom="%domaindns%" translateTo="NOVA.AD" />
+		<wellKnownID objectClass="text" translateFrom="%DN%" translateTo="DC=NOVA,DC=AD" />
+		<wellKnownID objectClass="text" translateFrom="%RootNetBios%" translateTo="NOVA" />
+		<wellKnownID objectClass="text" translateFrom="%domain%" translateTo="NOVA" />
+		<wellKnownID objectClass="text" translateFrom="%Rootdomaindns%" translateTo="NOVA.AD" />
+		<wellKnownID objectClass="text" translateFrom="%RootDN%" translateTo="DC=NOVA,DC=AD" />
 		<wellKnownID objectClass="text" translateFrom="%AuthenticatedUsers%" translateTo="Authenticated Users" />
 		<wellKnownID objectClass="text" translateFrom="%DnsAdmins%" translateTo="DnsAdmins" />
 		<wellKnownID objectClass="text" translateFrom="%RemoteDesktopUsers%" translateTo="Remote Desktop Users" />
